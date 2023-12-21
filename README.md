@@ -6,7 +6,7 @@
   
             Email:           v.s.vesich@gmail.com
             instagram:       @volodymyrvch
-            Mobile/viber/:   +38(099)0335159
+            Mobile/viber/:   +380990335159
           
 
 <!---
