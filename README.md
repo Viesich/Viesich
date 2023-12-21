@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning Python developer
 - 💞️ I'm looking to collaborate on Python development projects
 - 📫 How to reach me:
-          Email:           v.s.vesich@gmail.com
-          instagram:       @volodymyrvch
-          Mobile/viber/:   +380990335159
+  
+            Email:           v.s.vesich@gmail.com
+            instagram:       @volodymyrvch
+            Mobile/viber/:   +380990335159
           
 
 <!---
